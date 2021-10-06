@@ -1,4 +1,4 @@
-# leetcodeTop50
+# LeetCode Top 50
 JavaScript snippet to create a json with the top 50 leet code problems 
 
 1. Navigate to a company page, for example: https://leetcode.com/company/microsoft/
