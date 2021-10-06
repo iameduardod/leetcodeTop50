@@ -1,0 +1,615 @@
+{
+   "dateCrawled":"2021-10-06T16:23:23.110Z",
+   "problems":[
+      {
+         "number":"1448",
+         "title":"Count Good Nodes in Binary Tree",
+         "link":"https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+         "tags":[
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+         ],
+         "difficulty":"Medium",
+         "frequency":94
+      },
+      {
+         "number":"1822",
+         "title":"Sign of the Product of an Array",
+         "link":"https://leetcode.com/problems/sign-of-the-product-of-an-array",
+         "tags":[
+            "Array",
+            "Math"
+         ],
+         "difficulty":"Easy",
+         "frequency":86
+      },
+      {
+         "number":"146",
+         "title":"LRU Cache",
+         "link":"https://leetcode.com/problems/lru-cache",
+         "tags":[
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+         ],
+         "difficulty":"Medium",
+         "frequency":78
+      },
+      {
+         "number":"1405",
+         "title":"Longest Happy String",
+         "link":"https://leetcode.com/problems/longest-happy-string",
+         "tags":[
+            "String",
+            "Greedy",
+            "Heap (Priority Queue)"
+         ],
+         "difficulty":"Medium",
+         "frequency":71
+      },
+      {
+         "number":"200",
+         "title":"Number of Islands",
+         "link":"https://leetcode.com/problems/number-of-islands",
+         "tags":[
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union Find",
+            "Matrix"
+         ],
+         "difficulty":"Medium",
+         "frequency":69
+      },
+      {
+         "number":"1647",
+         "title":"Minimum Deletions to Make Character Frequencies Unique",
+         "link":"https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+         "tags":[
+            "String",
+            "Greedy",
+            "Sorting"
+         ],
+         "difficulty":"Medium",
+         "frequency":61
+      },
+      {
+         "number":"1615",
+         "title":"Maximal Network Rank",
+         "link":"https://leetcode.com/problems/maximal-network-rank",
+         "tags":[
+            "Graph"
+         ],
+         "difficulty":"Medium",
+         "frequency":54
+      },
+      {
+         "number":"212",
+         "title":"Word Search II",
+         "link":"https://leetcode.com/problems/word-search-ii",
+         "tags":[
+            "Array",
+            "String",
+            "Backtracking",
+            "Trie",
+            "Matrix"
+         ],
+         "difficulty":"Hard",
+         "frequency":53
+      },
+      {
+         "number":"588",
+         "title":"Design In-Memory File System",
+         "link":"https://leetcode.com/problems/design-in-memory-file-system",
+         "tags":[
+            "Hash Table",
+            "String",
+            "Design",
+            "Trie"
+         ],
+         "difficulty":"Hard",
+         "frequency":45
+      },
+      {
+         "number":"277",
+         "title":"Find the Celebrity",
+         "link":"https://leetcode.com/problems/find-the-celebrity",
+         "tags":[
+            "Two Pointers",
+            "Greedy",
+            "Graph",
+            "Interactive"
+         ],
+         "difficulty":"Medium",
+         "frequency":42
+      },
+      {
+         "number":"428",
+         "title":"Serialize and Deserialize N-ary Tree",
+         "link":"https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+         "tags":[
+            "String",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+         ],
+         "difficulty":"Hard",
+         "frequency":42
+      },
+      {
+         "number":"443",
+         "title":"String Compression",
+         "link":"https://leetcode.com/problems/string-compression",
+         "tags":[
+            "Two Pointers",
+            "String"
+         ],
+         "difficulty":"Medium",
+         "frequency":42
+      },
+      {
+         "number":"706",
+         "title":"Design HashMap",
+         "link":"https://leetcode.com/problems/design-hashmap",
+         "tags":[
+            "Array",
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Hash Function"
+         ],
+         "difficulty":"Easy",
+         "frequency":41
+      },
+      {
+         "number":"273",
+         "title":"Integer to English Words",
+         "link":"https://leetcode.com/problems/integer-to-english-words",
+         "tags":[
+            "Math",
+            "String",
+            "Recursion"
+         ],
+         "difficulty":"Hard",
+         "frequency":39
+      },
+      {
+         "number":"253",
+         "title":"Meeting Rooms II",
+         "link":"https://leetcode.com/problems/meeting-rooms-ii",
+         "tags":[
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+         ],
+         "difficulty":"Medium",
+         "frequency":36
+      },
+      {
+         "number":"545",
+         "title":"Boundary of Binary Tree",
+         "link":"https://leetcode.com/problems/boundary-of-binary-tree",
+         "tags":[
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+         ],
+         "difficulty":"Medium",
+         "frequency":35
+      },
+      {
+         "number":"1578",
+         "title":"Minimum Deletion Cost to Avoid Repeating Letters",
+         "link":"https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters",
+         "tags":[
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+         ],
+         "difficulty":"Medium",
+         "frequency":33
+      },
+      {
+         "number":"56",
+         "title":"Merge Intervals",
+         "link":"https://leetcode.com/problems/merge-intervals",
+         "tags":[
+            "Array",
+            "Sorting"
+         ],
+         "difficulty":"Medium",
+         "frequency":33
+      },
+      {
+         "number":"984",
+         "title":"String Without AAA or BBB",
+         "link":"https://leetcode.com/problems/string-without-aaa-or-bbb",
+         "tags":[
+            "String",
+            "Greedy"
+         ],
+         "difficulty":"Medium",
+         "frequency":32
+      },
+      {
+         "number":"915",
+         "title":"Partition Array into Disjoint Intervals",
+         "link":"https://leetcode.com/problems/partition-array-into-disjoint-intervals",
+         "tags":[
+            "Array"
+         ],
+         "difficulty":"Medium",
+         "frequency":32
+      },
+      {
+         "number":"722",
+         "title":"Remove Comments",
+         "link":"https://leetcode.com/problems/remove-comments",
+         "tags":[
+            "Array",
+            "String"
+         ],
+         "difficulty":"Medium",
+         "frequency":32
+      },
+      {
+         "number":"151",
+         "title":"Reverse Words in a String",
+         "link":"https://leetcode.com/problems/reverse-words-in-a-string",
+         "tags":[
+            "Two Pointers",
+            "String"
+         ],
+         "difficulty":"Medium",
+         "frequency":31
+      },
+      {
+         "number":"1096",
+         "title":"Brace Expansion II",
+         "link":"https://leetcode.com/problems/brace-expansion-ii",
+         "tags":[
+            "String",
+            "Backtracking",
+            "Stack",
+            "Breadth-First Search"
+         ],
+         "difficulty":"Hard",
+         "frequency":28
+      },
+      {
+         "number":"210",
+         "title":"Course Schedule II",
+         "link":"https://leetcode.com/problems/course-schedule-ii",
+         "tags":[
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+         ],
+         "difficulty":"Medium",
+         "frequency":28
+      },
+      {
+         "number":"340",
+         "title":"Longest Substring with At Most K Distinct Characters",
+         "link":"https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+         "tags":[
+            "Hash Table",
+            "String",
+            "Sliding Window"
+         ],
+         "difficulty":"Medium",
+         "frequency":28
+      },
+      {
+         "number":"460",
+         "title":"LFU Cache",
+         "link":"https://leetcode.com/problems/lfu-cache",
+         "tags":[
+            "Hash Table",
+            "Linked List",
+            "Design",
+            "Doubly-Linked List"
+         ],
+         "difficulty":"Hard",
+         "frequency":27
+      },
+      {
+         "number":"483",
+         "title":"Smallest Good Base",
+         "link":"https://leetcode.com/problems/smallest-good-base",
+         "tags":[
+            "Math",
+            "Binary Search"
+         ],
+         "difficulty":"Hard",
+         "frequency":27
+      },
+      {
+         "number":"348",
+         "title":"Design Tic-Tac-Toe",
+         "link":"https://leetcode.com/problems/design-tic-tac-toe",
+         "tags":[
+            "Array",
+            "Hash Table",
+            "Design",
+            "Matrix"
+         ],
+         "difficulty":"Medium",
+         "frequency":26
+      },
+      {
+         "number":"1344",
+         "title":"Angle Between Hands of a Clock",
+         "link":"https://leetcode.com/problems/angle-between-hands-of-a-clock",
+         "tags":[
+            "Math"
+         ],
+         "difficulty":"Medium",
+         "frequency":25
+      },
+      {
+         "number":"768",
+         "title":"Max Chunks To Make Sorted II",
+         "link":"https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+         "tags":[
+            "Array",
+            "Stack",
+            "Greedy",
+            "Sorting",
+            "Monotonic Stack"
+         ],
+         "difficulty":"Hard",
+         "frequency":24
+      },
+      {
+         "number":"54",
+         "title":"Spiral Matrix",
+         "link":"https://leetcode.com/problems/spiral-matrix",
+         "tags":[
+            "Array",
+            "Matrix",
+            "Simulation"
+         ],
+         "difficulty":"Medium",
+         "frequency":24
+      },
+      {
+         "number":"642",
+         "title":"Design Search Autocomplete System",
+         "link":"https://leetcode.com/problems/design-search-autocomplete-system",
+         "tags":[
+            "String",
+            "Design",
+            "Trie",
+            "Data Stream"
+         ],
+         "difficulty":"Hard",
+         "frequency":24
+      },
+      {
+         "number":"1304",
+         "title":"Find N Unique Integers Sum up to Zero",
+         "link":"https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
+         "tags":[
+            "Array",
+            "Math"
+         ],
+         "difficulty":"Easy",
+         "frequency":23
+      },
+      {
+         "number":"295",
+         "title":"Find Median from Data Stream",
+         "link":"https://leetcode.com/problems/find-median-from-data-stream",
+         "tags":[
+            "Two Pointers",
+            "Design",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Data Stream"
+         ],
+         "difficulty":"Hard",
+         "frequency":23
+      },
+      {
+         "number":"23",
+         "title":"Merge k Sorted Lists",
+         "link":"https://leetcode.com/problems/merge-k-sorted-lists",
+         "tags":[
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort"
+         ],
+         "difficulty":"Hard",
+         "frequency":22
+      },
+      {
+         "number":"384",
+         "title":"Shuffle an Array",
+         "link":"https://leetcode.com/problems/shuffle-an-array",
+         "tags":[
+            "Array",
+            "Math",
+            "Randomized"
+         ],
+         "difficulty":"Medium",
+         "frequency":22
+      },
+      {
+         "number":"769",
+         "title":"Max Chunks To Make Sorted",
+         "link":"https://leetcode.com/problems/max-chunks-to-make-sorted",
+         "tags":[
+            "Array",
+            "Stack",
+            "Greedy",
+            "Sorting",
+            "Monotonic Stack"
+         ],
+         "difficulty":"Medium",
+         "frequency":22
+      },
+      {
+         "number":"117",
+         "title":"Populating Next Right Pointers in Each Node II",
+         "link":"https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+         "tags":[
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+         ],
+         "difficulty":"Medium",
+         "frequency":22
+      },
+      {
+         "number":"93",
+         "title":"Restore IP Addresses",
+         "link":"https://leetcode.com/problems/restore-ip-addresses",
+         "tags":[
+            "String",
+            "Backtracking"
+         ],
+         "difficulty":"Medium",
+         "frequency":21
+      },
+      {
+         "number":"489",
+         "title":"Robot Room Cleaner",
+         "link":"https://leetcode.com/problems/robot-room-cleaner",
+         "tags":[
+            "Backtracking",
+            "Interactive"
+         ],
+         "difficulty":"Hard",
+         "frequency":21
+      },
+      {
+         "number":"25",
+         "title":"Reverse Nodes in k-Group",
+         "link":"https://leetcode.com/problems/reverse-nodes-in-k-group",
+         "tags":[
+            "Linked List",
+            "Recursion"
+         ],
+         "difficulty":"Hard",
+         "frequency":20
+      },
+      {
+         "number":"158",
+         "title":"Read N Characters Given Read4 II - Call multiple times",
+         "link":"https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+         "tags":[
+            "String",
+            "Simulation",
+            "Interactive"
+         ],
+         "difficulty":"Hard",
+         "frequency":20
+      },
+      {
+         "number":"462",
+         "title":"Minimum Moves to Equal Array Elements II",
+         "link":"https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+         "tags":[
+            "Array",
+            "Math",
+            "Sorting"
+         ],
+         "difficulty":"Medium",
+         "frequency":19
+      },
+      {
+         "number":"37",
+         "title":"Sudoku Solver",
+         "link":"https://leetcode.com/problems/sudoku-solver",
+         "tags":[
+            "Array",
+            "Backtracking",
+            "Matrix"
+         ],
+         "difficulty":"Hard",
+         "frequency":18
+      },
+      {
+         "number":"895",
+         "title":"Maximum Frequency Stack",
+         "link":"https://leetcode.com/problems/maximum-frequency-stack",
+         "tags":[
+            "Hash Table",
+            "Stack",
+            "Design",
+            "Ordered Set"
+         ],
+         "difficulty":"Hard",
+         "frequency":18
+      },
+      {
+         "number":"708",
+         "title":"Insert into a Sorted Circular Linked List",
+         "link":"https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+         "tags":[
+            "Linked List"
+         ],
+         "difficulty":"Medium",
+         "frequency":18
+      },
+      {
+         "number":"186",
+         "title":"Reverse Words in a String II",
+         "link":"https://leetcode.com/problems/reverse-words-in-a-string-ii",
+         "tags":[
+            "Two Pointers",
+            "String"
+         ],
+         "difficulty":"Medium",
+         "frequency":17
+      },
+      {
+         "number":"934",
+         "title":"Shortest Bridge",
+         "link":"https://leetcode.com/problems/shortest-bridge",
+         "tags":[
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+         ],
+         "difficulty":"Medium",
+         "frequency":17
+      },
+      {
+         "number":"207",
+         "title":"Course Schedule",
+         "link":"https://leetcode.com/problems/course-schedule",
+         "tags":[
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Graph",
+            "Topological Sort"
+         ],
+         "difficulty":"Medium",
+         "frequency":17
+      },
+      {
+         "number":"49",
+         "title":"Group Anagrams",
+         "link":"https://leetcode.com/problems/group-anagrams",
+         "tags":[
+            "Hash Table",
+            "String",
+            "Sorting"
+         ],
+         "difficulty":"Medium",
+         "frequency":16
+      }
+   ]
+}
